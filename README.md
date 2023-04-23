@@ -1,6 +1,14 @@
 # Second-order-Image-Degradation-based-on-RealBasicVSR
 Based on [RealESRGAN](https://arxiv.org/abs/2107.10833) by Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
 
+High Resolution Image:
+
+<p align="center"><img src="assets/hr/a.jpg" width="400"/></p>
+
+Low Resolution Image:
+
+<p align="center"><img src="assets/lr/a.jpg" width="400"/></p>
+
 ## Description
 
 
@@ -34,14 +42,6 @@ To install the requirements:
     
 
 ## Usage
-
-High Resolution Image:
-
-<p align="center"><img src="assets/hr/a.jpg" width="400"/></p>
-
-Low Resolution Image:
-
-<p align="center"><img src="assets/lr/a.jpg" width="400"/></p>
 
 Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
 Then,To run the project code:
