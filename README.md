@@ -21,9 +21,9 @@ The algorithm used for this project is as shown in figure :
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/sanjaybhandarii/Second-order-Image-Degradation-based-on-RealBasicVSR
-   ```
+```shell
+git clone https://github.com/sanjaybhandarii/Second-order-Image-Degradation-based-on-RealBasicVSR
+```
 2. Requirement:
 
 The requirements are listed in requirements.txt.
