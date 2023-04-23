@@ -33,11 +33,11 @@ The problem that this project solves is the simulation of second-order image deg
 
     High Resolution Image:
 
-        <p align="center"><img src="./assets/hr/a.jpg" width="400"/></p>
+    <p align="center"><img src="./assets/hr/a.jpg" width="400"/></p>
 
     Low Resolution Image:
 
-        <p align="center"><img src="./assets/to/a.jpg" width="400"/></p>
+    <p align="center"><img src="./assets/to/a.jpg" width="400"/></p>
 
     Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
     Then,To run the project code:
