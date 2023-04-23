@@ -1,5 +1,5 @@
 # Second-order-Image-Degradation-based-on-RealBasicVSR
-based on [RealESRGAN](https://arxiv.org/abs/2107.10833) by Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
+Based on [RealESRGAN](https://arxiv.org/abs/2107.10833) by Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
 
 ## Description
 
@@ -29,6 +29,7 @@ git clone https://github.com/sanjaybhandarii/Second-order-Image-Degradation-base
 The requirements are listed in requirements.txt.
 To install the requirements:
 
+    cd Second-order-Image-Degradation-based-on-RealBasicVSR
     pip install requirements.txt
     
 
