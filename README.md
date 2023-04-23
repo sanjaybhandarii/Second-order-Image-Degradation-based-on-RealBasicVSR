@@ -10,9 +10,10 @@ This project is built as a learning exercise to gain a deeper understanding of i
 
 The problem that this project solves is the simulation of second-order image degradation, which is a common problem in image processing. By converting high-quality images to low-quality noisy images, this project provides a realistic simulation of image degradation in real life, which can be useful for testing and validating Image/Video Super-Resolution/Upsampling algorithms.
 
-The algorith used for this project is as shown in figure :
+The algorithm used for this project is as shown in figure :
 
 <p align="center"><img src="assets/algo.jpg" width="600"/></p>
+    Source:[RealESRGAN](https://arxiv.org/abs/2107.10833)
 
 
 
