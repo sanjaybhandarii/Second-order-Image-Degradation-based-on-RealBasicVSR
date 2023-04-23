@@ -13,7 +13,6 @@ The problem that this project solves is the simulation of second-order image deg
 The algorithm used for this project is as shown in figure :
 
 <p align="center"><img src="assets/algo.jpg" width="600"/></p>
-    Credit: RealESRGAN paper
 
 
 
