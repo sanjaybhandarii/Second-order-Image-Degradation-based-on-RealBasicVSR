@@ -6,11 +6,12 @@ Credit for this project : https://basicsr.readthedocs.io/en/latest/_modules/basi
 
 from degrade import *
 
+
 #path to your High resolution image here
-path = "a.jpg"
+path = "assets/hr"
 
 #path to save degraded image here
-save_loc ="b.jpg"
+save_loc ="assets/lr"
 
 def process_all_image():
 
