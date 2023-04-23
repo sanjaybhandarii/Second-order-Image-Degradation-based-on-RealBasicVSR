@@ -17,8 +17,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-    ![alt text](assets/hr/a.jpg)
-    ![alt text](assets/lr/a.jpg)
+    ![alt text](./assets/hr/a.jpg)
+    ![alt text](./assets/lr/a.jpg)
 
 
 1. Clone the repository:
@@ -30,6 +30,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
     The requirements are listed in requirements.txt.
     To install the requirements:
+
     ```shell
     pip install requirements.txt
     ```
@@ -39,11 +40,12 @@ What are the steps required to install your project? Provide a step-by-step desc
     Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
 
     Then,To run the project code:
+
     ```shell
     python main.py
     ```
 
 ## Credits
 
-1. BasicSR [link](https://basicsr.readthedocs.io/en/latest/_modules/basicsr/data/degradations.html)
-2. RealESRGAN [link](https://arxiv.org/abs/2107.10833)
+1. [BasicSR](https://basicsr.readthedocs.io/en/latest/_modules/basicsr/data/degradations.html)
+2. [RealESRGAN](https://arxiv.org/abs/2107.10833)
