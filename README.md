@@ -29,9 +29,8 @@ The algorithm used for this project is as shown in figure :
 The requirements are listed in requirements.txt.
 To install the requirements:
 
-    ```shell
     pip install requirements.txt
-    ```
+    
 
 ## Usage
 
@@ -46,9 +45,8 @@ Low Resolution Image:
 Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
 Then,To run the project code:
 
-    ```shell
     python main.py
-    ```
+
 
 ## Credits
 
