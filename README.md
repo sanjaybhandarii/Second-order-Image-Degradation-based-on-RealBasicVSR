@@ -10,6 +10,10 @@ This project is built as a learning exercise to gain a deeper understanding of i
 
 The problem that this project solves is the simulation of second-order image degradation, which is a common problem in image processing. By converting high-quality images to low-quality noisy images, this project provides a realistic simulation of image degradation in real life, which can be useful for testing and validating Image/Video Super-Resolution/Upsampling algorithms.
 
+The algorith used for this project is as shown in figure :
+
+<p align="center"><img src="assets/algo.jpg" width="600"/></p>
+
 
 
 ## Installation
@@ -22,8 +26,8 @@ The problem that this project solves is the simulation of second-order image deg
    ```
 2. Requirement:
 
-    The requirements are listed in requirements.txt.
-    To install the requirements:
+The requirements are listed in requirements.txt.
+To install the requirements:
 
     ```shell
     pip install requirements.txt
@@ -31,16 +35,16 @@ The problem that this project solves is the simulation of second-order image deg
 
 ## Usage
 
-    High Resolution Image:
+High Resolution Image:
 
 <p align="center"><img src="assets/hr/a.jpg" width="400"/></p>
 
-    Low Resolution Image:
+Low Resolution Image:
 
 <p align="center"><img src="assets/lr/a.jpg" width="400"/></p>
 
-    Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
-    Then,To run the project code:
+Give the locations of HR(High Resolution) images and locations to save your degraded image in main.py.
+Then,To run the project code:
 
     ```shell
     python main.py
