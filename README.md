@@ -1,4 +1,4 @@
-# Second Order Image Degradation based on RealBasicVSR
+# Second Order Image Degradation based on RealESRGAN
 Based on [RealESRGAN](https://arxiv.org/abs/2107.10833) by Xintao Wang, Liangbin Xie, Chao Dong, Ying Shan
 
 High Resolution Image:
